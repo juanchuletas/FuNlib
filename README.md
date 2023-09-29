@@ -26,7 +26,7 @@ With FuNLib you coul solve 1D differential equations.
 - [License](#lock-license)
 
 ##  :beginner: About
-The name FuNLib stands for Fully Numerical Library. At this moment FuNlib only can solve 1D differential equations, but<br>
+The name FuNLib stands for Fully Numerical Library. At this moment FuNlib only can solve 1D differential equations, but
 there is a plan to extend to 2D and 3D. This Library is written in pure C++ and use some lapack functions.
 
 ## :zap: Usage
@@ -37,7 +37,7 @@ As a static library, you could put the file together with your project object fi
 - Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
 ```
-$ add installations steps if you have to.
+$ g++ myApp.cpp -L. -l:funlib.a -llapack -o myApp.exe 
 ```
 
 ###  :package: Commands
