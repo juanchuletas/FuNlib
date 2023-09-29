@@ -1,6 +1,7 @@
 # Introduction
 
-FunLib was originally part of the FuNQC software, but I decided to developed it as a separated  static library.
+FuNLib was originally part of the FuNQC software, but I decided to developed it as a separated  static library.<br>
+With FuNLib you coul solve 1D differential equations.
 
 ## :ledger: Index
 
@@ -25,10 +26,11 @@ FunLib was originally part of the FuNQC software, but I decided to developed it 
 - [License](#lock-license)
 
 ##  :beginner: About
-Add a detailed introduction about the project here, everything you want the reader to know.
+The name FuNLib stands for Fully Numerical Library. At this moment FuNlib only can solve 1D differential equations, but<br>
+there is a plan to extend to 2D and 3D. This Library is written in pure C++ and use some lapack functions.
 
 ## :zap: Usage
-Write about how to use this project.
+As a static library, you could put the file together with your project object files and linking using the g++ compiler.
 
 ###  :electric_plug: Installation
 - Steps on how to install this project, to use it.
