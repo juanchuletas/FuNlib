@@ -1,7 +1,6 @@
 # Introduction
-- Add your project logo.
-- Write a short introduction to the project.
-- If you are using badges, add them here.
+
+FunLib was originally part of the FuNQC software, but I decided to developed it as a separated  static library.
 
 ## :ledger: Index
 
